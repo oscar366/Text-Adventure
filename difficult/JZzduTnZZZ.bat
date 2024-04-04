@@ -1,2 +1,2 @@
 @echo OFF
-call C:\Users\user\Desktop\bah\err_no_code.vbs
+call %~dp0Text-Adventure/err_no_code.vbs
