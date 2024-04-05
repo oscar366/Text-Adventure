@@ -16,21 +16,21 @@ color 0b
 cls
 echo you chose %difficulty% if you don't whant it to be %difficulty% then colse and reopen this program
 pause >nul
-call normal\aKOEYeZGlY.bat
+call aKOEYeZGlY.bat
 ) else (
 if %difficulty% == difficult (
 color 0d
 cls
 echo you chose %difficulty% if you don't whant it to be %difficulty% then colse and reopen this program
 pause >nul
-call difficult\JZzduTnZZZ.bat
+call JZzduTnZZZ.bat
 ) else (
 if %difficulty% == hard (
 color 0c
 cls
 echo you chose %difficulty% if you don't whant it to be %difficulty% then colse and reopen this program
 pause >nul
-call hard\RGPeliXlnc.bat
+call RGPeliXlnc.bat
 ) else (
 goto start
 )
